@@ -3,8 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 JiBa gouwanyier laogoubigundana!!!
-<<<<<<< HEAD
-dev2
-=======
 issue-001
->>>>>>> 803b24c (fix issue-001)
